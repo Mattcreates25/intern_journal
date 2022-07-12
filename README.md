@@ -1,15 +1,17 @@
-# intern_journal
+# __intern_journal__
 
-#hello!
+## __hello!__
 
-#Here I will document my journey through ICIPE cohort 6 internship
+Here I will document my journey through ICIPE cohort 6 internship
 
-##vision
+## vision
 
 my vision for this intenship is to jumpstart my career as a bioinformatician and network with others in the field find..
 
 
-##road map
+## day one
+
+
 
  
 #how to add a link
