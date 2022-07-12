@@ -12,6 +12,7 @@ my vision for this intenship is to jumpstart my career as a bioinformatician and
 ## day one(understanding github)
 
 ### markdown
+markdown is a way to format text  on github
 
 
 ### forking and cloning
