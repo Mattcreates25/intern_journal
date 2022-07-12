@@ -1,15 +1,15 @@
-# __intern_journal__
+# __Intern_journal__
 
-## __hello!__
+## __Hello!__
 
 Here I will document my journey through ICIPE cohort 6 internship
 
-## vision
+## Vision
 
-my vision for this intenship is to jumpstart my career as a bioinformatician and network with others in the field find..
+My vision for this intenship is to jumpstart my career as a bioinformatician and network with others in the field find
 
 
-## day one(understanding github)
+## Day one(understanding github)
 
 ### markdown
 markdown is a way to format text  on github
@@ -21,6 +21,10 @@ forking a repository is basically making a copy of an already existing project t
 if the changes you've made to the project are useful then you can make a pull request for the changes to be added. here is a link to my first attempt [link][1]
 
 [1]:https://github.com/Mattcreates25/MyFirstFork
+
+### Why fork  
+1. Use someone's project as a starting point for yours
+2. Make proposal edits to someones work.
 
 ###
 
