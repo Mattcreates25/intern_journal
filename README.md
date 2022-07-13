@@ -13,7 +13,7 @@ My vision for this internship is to jump start my career as a bioinformatician a
 1. Understand additional tools that are used by bioinformaticians
 2. Utilize the trainers wealth of information and time 
 3. Tap into the strengths of my teammates and solve problems that I've encountered in R studio.
-4. 
+4. reproduce a similar project 
 5. Share any information I have gained hitherto.
 
 ## __Mission__
@@ -69,7 +69,6 @@ Identify the types of sequences I would like my library to query
 
 1. nucleic acid(DNA/RNA) or protein sequences
 2. types of organisms or viruses to focus on.
-3. 
 
 ## __milestone 6__
 collect nucleic acid and/or proteomic sequences that will be included in the repository for my library
@@ -82,4 +81,4 @@ generate useful functions that will allow for manipulation of collected data
 1. A function to call sequences from the selected repository
 2. A function to subset data if necessary
 3. A function to create phylogenetic relationships
-4. A function to run different types of alignments(pairwise,)
+4. A function to run different types of alignments(pairwise, multiple sequence alignment, global and local)
