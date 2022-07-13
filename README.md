@@ -64,12 +64,11 @@ slidingwindowGCplot= function(windowsize, inputseq)
 
 using markdown i'm able to wrap my code and specify the language that I used for this code.
 
-## issue tracking 
 
 
-# __ROAD MAP__
+# __ROAD MAP__ :checkered_flag:
 
-## __milestone 1__
+## __milestone 1__ :pushpin:
 getting to understand git and GitHub and its uses.
 
 1. understand the concepts of forking and cloning
@@ -77,32 +76,32 @@ getting to understand git and GitHub and its uses.
 3. understand how to use markdown
 4. setting up GitHub command line on my local terminal
 
-## __milestone 2__
+## __milestone 2__ :pushpin:
 understanding the command line in Ubuntu Linux
 
-## __milestone 3__
+## __milestone 3__ :pushpin:
 find more application with python as a programming language
 1. increase my proficiency in the language
 
-## __milestone 4__
+## __milestone 4__ :pushpin:
 visualize data on an ongoing project here at ICIPE
 
 1. align with an ongoing project and help the team analyze and visualize the data they’ve collected.
 
-## __milestone 5__ 
+## __milestone 5__ :pushpin:
 
 Identify the types of sequences I would like my library to query 
 
 1. nucleic acid(DNA/RNA) or protein sequences
 2. types of organisms or viruses to focus on.
 
-## __milestone 6__
+## __milestone 6__ :pushpin:
 collect nucleic acid and/or proteomic sequences that will be included in the repository for my library
 
-## __milestone 7__
+## __milestone 7__ :pushpin:
 
 
-## __milestone 8__
+## __milestone 8__ :pushpin:
 generate useful functions that will allow for manipulation of collected data
 1. A function to call sequences from the selected repository
 2. A function to subset data if necessary
