@@ -6,7 +6,7 @@ Here I will document my journey through ICIPE cohort 6 internship
 
 ## Vision
 
-My vision for this intenship is to jumpstart my career as a bioinformatician and network with others in the field. I would also like to be able to submit a useful package in R  that can be used to analyse protemoic and/or genomic data. to this end I will need to:
+My vision for this intenship is to jumpstart my career as a bioinformatician and network with others in the field. I would also like to be able to submit a useful package in R  that can be used to analyse and visualize protemoic and/or genomic data. to this end I will need to:
 
 1. understnad additional tools that are used by bioinformaticians
 2. utilize the trainers wealth of information and time to the fullest
