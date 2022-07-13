@@ -13,7 +13,7 @@ My vision for this intenship is to jumpstart my career as a bioinformatician and
 3. tap into the strengths of my teammates and solve problems that I've encountered.
 4. share any information I have gained hitherto.
 
-##__Mission__
+## __Mission__
 
 My main mission is to contribute to the scientific community by using the skills I'll learn to unlock different secrets of the molecular world, secerts that will help cure diseases.
 
