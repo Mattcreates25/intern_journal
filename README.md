@@ -10,7 +10,11 @@ My vision for this intenship is to jumpstart my career as a bioinformatician and
 
 1. understnad additional tools that are used by bioinformaticians
 2. utilize the trainers wealth of information and time to the fullest
-3. tap into the strengths of my teammates and share any information I have gained hitherto.
+3. tap into the strengths of my teammates and solve problems that I've encountered.
+4. share any information I have gained hitherto.
+
+##__Mission__
+My main mission is to contribute to the scientific community by using the skills I'll learn to unlock different secrets of the molecular world, secerts that will help cure diseases.
 
 ## Day one(understanding git and github)
 
@@ -36,6 +40,9 @@ getting to understand git and guthub and its uses.
 
 ##__milestone 2__
 understanding the command line in Ubuntu linux
+
+##__milestone 3__
+
 
 
  
