@@ -43,7 +43,7 @@ getting to understand git and guthub and its uses.
 understanding the command line in Ubuntu linux
 
 ##__milestone 3__
-
+find more application with python as a programming language
 
 
  
