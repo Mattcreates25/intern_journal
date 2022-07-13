@@ -33,19 +33,19 @@ if the changes you've made to the project are useful then you can make a pull re
 ### markdown
 markdown is a way to format text  on github
 
-#__ROAD MAP__
+# __ROAD MAP__
 
-##__milestone 1__
+## __milestone 1__
 getting to understand git and guthub and its uses.
 
 
-##__milestone 2__
+## __milestone 2__
 understanding the command line in Ubuntu linux
 
-##__milestone 3__
+## __milestone 3__
 find more application with python as a programming language
 
-##__milestone 4__
+## __milestone 4__
 visualize data on an ongoing project here at icipe
 
 
