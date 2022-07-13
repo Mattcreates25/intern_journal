@@ -38,6 +38,9 @@ if the changes you've made to the project are useful then you can make a pull re
 
 markdown is a way to format text  on GitHub
 
+here is an example of some code from one of my projects wrapped in back ticks
+```
+
 ## issue tracking 
 
 
