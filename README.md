@@ -96,7 +96,7 @@ Identify the types of sequences I would like my library to query
 2. types of organisms or viruses to focus on.
 
 ## __milestone 6__ :pushpin:
-collect nucleic acid and/or proteomic sequences that will be included in the repository for my library
+fetch model nucleic acid and/or proteomic sequences that will be included in the repository for my library
 
 ## __milestone 7__ :pushpin:
 
