@@ -18,7 +18,7 @@ My vision for this internship is to jump start my career as a bioinformatician a
 
 ## __Mission__
 
-My main mission is to contribute to the scientific community by using the skills I'll learn from this internship to unlock different secrets of the molecular world, secrets that could potentially cure disease and improve the quality of life . Using programming tools I would like to help generate reusable code that could  
+My main mission is to contribute to the scientific community by using the skills I'll learn from this internship to unlock different secrets of the molecular world, secrets that could potentially cure disease and improve the quality of life . Using programming tools I would like to help generate reusable code that could that others could use as a standard in various research projects.
 
 ## Day one(understanding git and GitHub)
 
