@@ -45,5 +45,8 @@ understanding the command line in Ubuntu linux
 ##__milestone 3__
 find more application with python as a programming language
 
+##__milestone 4__
+visualize data on an ongoing project here at icipe
+
 
  
