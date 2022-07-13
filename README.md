@@ -6,7 +6,7 @@ Here I will document my journey through ICIPE cohort 6 internship
 
 ## Vision
 
-My vision for this intenship is to jumpstart my career as a bioinformatician and network with others in the field find
+My vision for this intenship is to jumpstart my career as a bioinformatician and network with others in the field. I would also like to be able to submit a useful library in R  that can be used to analyse protemoic and/or genomic data.
 
 
 ## Day one(understanding github)
@@ -26,7 +26,6 @@ if the changes you've made to the project are useful then you can make a pull re
 1. Use someone's project as a starting point for yours
 2. Make proposal edits to someones work.
 
-###
-
+#__ROAD MAP__
 
  
