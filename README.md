@@ -30,14 +30,12 @@ markdown is a way to format text  on github
 
 #__ROAD MAP__
 
-1. understand more tools used in 
-
 ##__milestone 1__
 getting to understand git and guthub and its uses.
 
 
 ##__milestone 2__
-
+understanding the command line in Ubuntu linux
 
 
  
