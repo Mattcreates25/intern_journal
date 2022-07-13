@@ -39,7 +39,30 @@ if the changes you've made to the project are useful then you can make a pull re
 markdown is a way to format text  on GitHub
 
 here is an example of some code from one of my projects wrapped in back ticks
-```
+```r
+slidingwindowGCplot= function(windowsize, inputseq)
+{GCwindow= seq(1,length(inputseq)- windowsize, by= windowsize)
+  #find the length of the GC window
+    n= length(GCwindow)
+        #make an empty vector with the same length
+          chunks=numeric(n)
+          for (i in 1:n) {
+            chunk=inputseq[GCwindow[i]:(GCwindow[i]+ windowsize-1)]
+            chunkGC= GC(chunk)
+            print(chunkGC)
+            chunks[i]= chunkGC
+          }
+          #generate plots for the sliding window
+          plot(GCwindow, chunks, type= "b", 
+               xlab = "nucleotide start position", 
+               ylab = "GC content", 
+               main=paste("GC plot with windowsize", windowsize))
+          ##the second part of the main part is the variable. in this case windowsize
+          
+          }
+ ```
+
+using markdown i'm able to wrap my code and specify the language that I used for this code.
 
 ## issue tracking 
 
