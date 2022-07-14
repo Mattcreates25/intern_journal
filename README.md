@@ -2,14 +2,17 @@
 
 ## __Hello!__ 👋:
 
-__Greetings and welcome__  thank you for checking out my page. I am an aspiring bioinformaticians with a background in biochemistry. during my undergraduate course, I found myself drawn to the multidisciplinary of the field as I undertook my first attachment. since then, I have taken steps to further my knowledge in the trade, here are some of my credentials [link][1] 
-[1]:https://credentials.edx.org/records/programs/shared/bd4759839c9c4d0c9e6eeb8a4c472587/ the need for computational scientist globally is rising, and with it I dream to rise and distinguish myself as a professional in the field. 
+__Greetings and welcome__  thank you for checking out my page. I am an aspiring bioinformaticians with a background in biochemistry. during my undergraduate course, I found myself drawn to the multidisciplinary of the field as I undertook my first attachment. since then, I have taken steps to further my knowledge in the trade here are some of my credentials 
+[link][1] 
+
+[1]:https://credentials.edx.org/records/programs/shared/bd4759839c9c4d0c9e6eeb8a4c472587/ 
+The need for computational scientist globally is rising, and with it I dream to rise and distinguish myself as a professional in the field. 
 
 Here I will document my journey through ICIPE cohort 6 internship
 
 ## Vision
 
-My vision for this internship is to jump start my career as a bioinformatician and network with others in the field. Additionally I would also like to be able to submit a useful package in R to the CRAN that can be used to analyze and visualize proteomic and/or genomic data. to this end I will need to:
+My vision for this internship is to jump start my career as a bioinformatician and network with others in the field. Additionally I would also like to be able to submit a useful package in R to the CRAN that can be used to analyze and visualize proteomic and/or genomic data, carry out MSA . to this end I will need to:
 
 1. Understand additional tools that are used by bioinformaticians
 2. Utilize the trainers wealth of information and time 
@@ -65,8 +68,19 @@ slidingwindowGCplot= function(windowsize, inputseq)
 
 using markdown i'm able to wrap my code and specify the language that I used for this code.
 
-# DAY 2
-Understanding the use of the use of issue tracking on github
+## __DAY two(open science)__
+
+refresher on issue tracking on GitHub
+open science and data management in bioinformatics
+what is open science.. contribute, collaborate, redistribute and reproduce, transparent, accessible , available and free
+why open science fostering a scientific ecosystem, benefits of open access, increased quality of the research , increase opportunities, faster transfer of knowledge, foster innovation, improves productivity and research output, improves willingness in participants
+taxonomy open science: open access, open data , open reproducible
+open access journal: F1000 research, <AAs open access journal , wellcome open research , e life(avoid predatory journals)
+tools: >R markdown, jupyter hub,zenodo, galaxy project, nextflow, docker
+data management: FAIR(findable, accessible, inter-operable and reusable
+data management plan: types of data, standard, format, metadata, provisions for archiving  and preservation, access policies
+organizing your sequencing project: data tidiness, data storage 
+
 
 
 
@@ -83,6 +97,7 @@ getting to understand git and GitHub and its uses.
 
 ## __milestone 2__ :pushpin:
 understanding the command line in Ubuntu Linux
+find a suitable workflow program for my project
 
 ## __milestone 3__ :pushpin:
 find more application with python as a programming language
@@ -104,7 +119,7 @@ Identify the types of sequences I would like my library to query
 fetch model nucleic acid and/or proteomic sequences that will be included in the repository for my library
 
 ## __milestone 7__ :pushpin:
-
+identify which repository my library will use to call sequences
 
 ## __milestone 8__ :pushpin:
 generate useful functions that will allow for manipulation of collected data
