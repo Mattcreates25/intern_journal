@@ -76,6 +76,7 @@ generate useful functions that will allow for manipulation of collected data
 4. A function to run different types of alignments(pairwise, multiple sequence alignment, global and local)
 
 ## __milestone 9__ :pushpin:
+1. identify the algorithms that the package will utilize for sequence alignment
 
 
 ## Day one(understanding git and GitHub)
@@ -137,7 +138,6 @@ tools: >R markdown, jupyter hub,zenodo, galaxy project, nextflow, docker
 data management: FAIR(findable, accessible, inter-operable and reusable
 data management plan: types of data, standard, format, metadata, provisions for archiving  and preservation, access policies
 organizing your sequencing project: data tidiness, data storage 
-
 
 
 
