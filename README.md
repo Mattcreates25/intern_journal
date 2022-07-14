@@ -10,19 +10,73 @@ The need for computational scientist globally is rising, and with it I dream to 
 
 Here I will document my journey through ICIPE cohort 6 internship
 
-## Vision
+## Vision :eyes:
 
-My vision for this internship is to jump start my career as a bioinformatician and network with others in the field. Additionally I would also like to be able to submit a useful package in R to the CRAN that can be used to analyze and visualize proteomic and/or genomic data, carry out MSA  and generate a workflow from this code that I can be reusing. to this end I will need to:
+My vision for this internship is to jump start my career as a bioinformatician and network with others in the field. Additionally I would also like to be able to submit a useful package in R to the CRAN that can be used to analyze and visualize proteomic and/or genomic data, carry out MSA, identify important genes and their respective functions etc  and from this be capable of generating workflows from my portfolio that myself and others can reuse for various projects. To this end I will need to:
 
 1. Understand additional tools that are used by bioinformaticians
 2. Utilize the trainers wealth of information and time 
-3. Tap into the strengths of my teammates and solve problems that I've encountered in R studio.
-4. reproduce a similar project 
-5. Share any information I have gained hitherto.
+3. Tap into the strengths of my teammates and solve problems that I've encountered in R studio and python.
+4. reproduce a similar project to have an idea of where to start
+5. Share any information I will gain with like minded people who can help me improve my work.
 
-## __Mission__
 
-My main mission is to contribute to the scientific community by using the skills I'll learn from this internship to unlock different secrets of the molecular world, secrets that could potentially cure disease and improve the quality of life . Using programming tools I would like to help generate reusable scripts to visualize data that others could use as a standard in various research projects.
+## __Mission__ 
+
+My main mission is to contribute to the scientific community by using the skills I'll learn from this internship to unlock different secrets of the molecular world, secrets that could potentially cure disease and improve the quality of human and animal life . Using programming tools I would like to help generate reusable scripts to visualize data that others can use as a standard in various research projects.
+
+### __End goal__ :goal_net:
+1. distinguish myself as a creator and developer of unique resources and tool that can be used to determine various relationships between biological data sets
+2. attain mastery in analyzing, interpreting and visualizing biological data
+3. contribute to the addition, organization and management of biological databases.
+
+
+# __ROAD MAP__ :checkered_flag: 
+
+## __milestone 1__ :pushpin:
+getting to understand git and GitHub and its uses.
+
+1. understand the concepts of forking and cloning
+2. issue tracking
+3. understand how to use markdown
+4. setting up GitHub command line on my local terminal
+
+## __milestone 2__ :pushpin:
+understanding the command line in Ubuntu Linux
+find a suitable workflow program for my project
+
+## __milestone 3__ :pushpin:
+find more application with python as a programming language
+1. increase my proficiency in the language
+
+## __milestone 4__ :pushpin:
+visualize data on an ongoing project here at ICIPE
+
+1. align with an ongoing project and help the team analyze and visualize the data they’ve collected.
+2. collaborate with a team to produce exceptional representation of data collected in house.
+
+## __milestone 5__ :pushpin:
+
+Identify the types of sequences I would like my library to query 
+
+1. nucleic acid(DNA/RNA) or protein sequences
+2. types of organisms or viruses to focus on.
+
+## __milestone 6__ :pushpin:
+fetch model nucleic acid and/or proteomic sequences that will be included in the repository for my library
+
+## __milestone 7__ :pushpin:
+identify which repository my library will use to call sequences if need be.
+
+## __milestone 8__ :pushpin:
+generate useful functions that will allow for manipulation of collected data
+1. A function to call sequences from the selected repository
+2. A function to subset data if necessary
+3. A function to create phylogenetic relationships
+4. A function to run different types of alignments(pairwise, multiple sequence alignment, global and local)
+
+## __milestone 9__ :pushpin:
+
 
 ## Day one(understanding git and GitHub)
 
@@ -42,7 +96,8 @@ if the changes you've made to the project are useful then you can make a pull re
 
 markdown is a way to format text  on GitHub
 
-here is an example of a function from one of my projects wrapped in back ticks
+for example, here is a snippet of code for a function that can manipulate graph data of a GC rich sequence
+
 ```r
 slidingwindowGCplot= function(windowsize, inputseq)
 {GCwindow= seq(1,length(inputseq)- windowsize, by= windowsize)
@@ -66,12 +121,14 @@ slidingwindowGCplot= function(windowsize, inputseq)
           }
  ```
 
-using markdown i'm able to wrap my code and specify the language that I used for this code.
+using markdown i'm able to wrap my code and specify the language that I used, for this code in this case R.
 
 ## __DAY two(open science)__
 
-refresher on issue tracking on GitHub
-open science and data management in bioinformatics
+### __refresher on issue tracking on GitHub__
+issue tracking is a great way to assign tasks to a project you are working on either alone or with other collaborators.
+
+### __open science and data management in bioinformatics__
 what is open science.. contribute, collaborate, redistribute and reproduce, transparent, accessible , available and free
 why open science fostering a scientific ecosystem, benefits of open access, increased quality of the research , increase opportunities, faster transfer of knowledge, foster innovation, improves productivity and research output, improves willingness in participants
 taxonomy open science: open access, open data , open reproducible
@@ -85,45 +142,4 @@ organizing your sequencing project: data tidiness, data storage
 
 
 
-# __ROAD MAP__ :checkered_flag:
 
-## __milestone 1__ :pushpin:
-getting to understand git and GitHub and its uses.
-
-1. understand the concepts of forking and cloning
-2. issue tracking
-3. understand how to use markdown
-4. setting up GitHub command line on my local terminal
-
-## __milestone 2__ :pushpin:
-understanding the command line in Ubuntu Linux
-find a suitable workflow program for my project
-
-## __milestone 3__ :pushpin:
-find more application with python as a programming language
-1. increase my proficiency in the language
-
-## __milestone 4__ :pushpin:
-visualize data on an ongoing project here at ICIPE
-
-1. align with an ongoing project and help the team analyze and visualize the data they’ve collected.
-
-## __milestone 5__ :pushpin:
-
-Identify the types of sequences I would like my library to query 
-
-1. nucleic acid(DNA/RNA) or protein sequences
-2. types of organisms or viruses to focus on.
-
-## __milestone 6__ :pushpin:
-fetch model nucleic acid and/or proteomic sequences that will be included in the repository for my library
-
-## __milestone 7__ :pushpin:
-identify which repository my library will use to call sequences
-
-## __milestone 8__ :pushpin:
-generate useful functions that will allow for manipulation of collected data
-1. A function to call sequences from the selected repository
-2. A function to subset data if necessary
-3. A function to create phylogenetic relationships
-4. A function to run different types of alignments(pairwise, multiple sequence alignment, global and local)
