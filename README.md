@@ -12,7 +12,7 @@ Here I will document my journey through ICIPE cohort 6 internship
 
 ## Vision
 
-My vision for this internship is to jump start my career as a bioinformatician and network with others in the field. Additionally I would also like to be able to submit a useful package in R to the CRAN that can be used to analyze and visualize proteomic and/or genomic data, carry out MSA . to this end I will need to:
+My vision for this internship is to jump start my career as a bioinformatician and network with others in the field. Additionally I would also like to be able to submit a useful package in R to the CRAN that can be used to analyze and visualize proteomic and/or genomic data, carry out MSA  and generate a workflow from this code that I can be reusing. to this end I will need to:
 
 1. Understand additional tools that are used by bioinformaticians
 2. Utilize the trainers wealth of information and time 
