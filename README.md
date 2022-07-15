@@ -66,7 +66,7 @@ Identify the types of sequences I would like my library to query
 fetch model nucleic acid and/or proteomic sequences that will be included in the repository for my library
 
 ## __milestone 7__ :pushpin:
-identify which repository my library will use to call sequences if need be.
+identify which database my library will use to call sequences if need be.
 
 ## __milestone 8__ :pushpin:
 generate useful functions that will allow for manipulation of collected data
@@ -79,7 +79,19 @@ generate useful functions that will allow for manipulation of collected data
 1. identify the algorithms that the package will utilize for sequence alignment
 
 
-## Day one(understanding git and GitHub)
+## __Day one(understanding git and GitHub)__
+
+## creating a profile readme
+a profile read me is essentially a place where you can introduce yourself to the github community an "about me" this will apear 
+
+## what is GitHub?
+GitHub is a collaboration platform where you can share and contribute to open source science
+
+## what is a repo?
+a repo is short for repository and its a place where files and folders are stored to make a project. A repo is capable of version tracking
+
+## what is a branch?
+a branch is a parallel version of a repo created at a specific version of the main. the branch can be used to create different version of the project, changes to the branch can be made without affecting the content on the main.
 
 ### forking and cloning
 forking a repository is basically making a copy of an already existing project that you can work on separately. while cloning is allows you to have a copy of the file on your PC.
@@ -122,7 +134,7 @@ slidingwindowGCplot= function(windowsize, inputseq)
           }
  ```
 
-using markdown i'm able to wrap my code and specify the language that I used, for this code in this case R.
+using markdown I'm able to wrap my code and specify the language that I used, for this code in this case R.
 
 ## __DAY two(open science)__
 
@@ -139,7 +151,46 @@ data management: FAIR(findable, accessible, inter-operable and reusable
 data management plan: types of data, standard, format, metadata, provisions for archiving  and preservation, access policies
 organizing your sequencing project: data tidiness, data storage 
 
+## __ DAY three(bioinformatics)__
+what is bioinformatics?
+the hybrid of biology and computer science
+computer aided biology 
 
+types of bioinformatics data:
+genomes 
+DNA and RNA seuences
+protemes
+protein families , motifs and domains
+protein interactions
+pathways 
+literature and ontologies 
+gene expression 
+protein sequences 
+protein structure 
+and chemical entities
+sytems
 
+bioinformatics research areas
+organisation , classification, dissemination and analysis of biological and biomedical data
+biological sequence analysis and phylogenetics
+genome organization and evolution
+bilogical pathways and networks in  health and disseas states
+protein structure prediction from sequence
+design of biomolecular structure and function
+drug design 
 
+where did bioinformatics come from 
+it arose as molecular biology began to transform with sequence data.
+
+databases
+NCBI and EBI
+EBI offers more online tools 
+
+types of databases 
+primary 
+secondary 
+composite
+
+MySqL... find out more about this 
+gene ontology
 
