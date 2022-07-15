@@ -151,7 +151,7 @@ data management: FAIR(findable, accessible, inter-operable and reusable
 data management plan: types of data, standard, format, metadata, provisions for archiving  and preservation, access policies
 organizing your sequencing project: data tidiness, data storage 
 
-## __ DAY three(bioinformatics)__
+## __DAY three(bioinformatics)__
 what is bioinformatics?
 the hybrid of biology and computer science
 computer aided biology 
