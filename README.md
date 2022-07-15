@@ -145,6 +145,7 @@ using markdown I'm able to wrap my code and specify the language that I used, fo
 issue tracking is a great way to assign tasks to a project you are working on either alone or with other collaborators.
 
 ### __open science and data management in bioinformatics__
+
 what is open science.. contribute, collaborate, redistribute and reproduce, transparent, accessible , available and free
 why open science fostering a scientific ecosystem, benefits of open access, increased quality of the research , increase opportunities, faster transfer of knowledge, foster innovation, improves productivity and research output, improves willingness in participants
 taxonomy open science: open access, open data , open reproducible
@@ -195,5 +196,9 @@ secondary
 composite
 
 MySqL... find out more about this 
-gene ontology
+
+##__gene ontology__
+Gene ontology provides a controlled vocabulary of terms for describing gene product characteristics, gene product annotation 
+
+
 
