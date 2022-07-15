@@ -93,6 +93,9 @@ a repo is short for repository and its a place where files and folders are store
 ## what is a branch?
 a branch is a parallel version of a repo created at a specific version of the main. the branch can be used to create different version of the project, changes to the branch can be made without affecting the content on the main.
 
+## what is a commit
+a commit is a is a set of changes that you've made to the file you are working on. they also exist as branches and this is how  GitHub does version tracking
+
 ### forking and cloning
 forking a repository is basically making a copy of an already existing project that you can work on separately. while cloning is allows you to have a copy of the file on your PC.
 
