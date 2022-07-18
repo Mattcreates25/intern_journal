@@ -79,6 +79,7 @@ generate useful functions that will allow for manipulation of collected data
 1. identify the algorithms that the package will utilize for sequence alignment
 
 
+
 ## __Day one(understanding git and GitHub)__
 
 ## creating a profile readme
@@ -201,11 +202,26 @@ MySqL... find out more about this
 Gene ontology provides a controlled vocabulary of terms for describing gene product characteristics, gene product annotation 
 
 
+## __dna SEQ ANALYSIS PPELINE__
+ fastQ
+ 
 
-# __seqencing__
+## __seqencing__
 whole gemone sequence 
 shotgun sequencing
 
 the exten of non protein coding DNA increases with the  complexity of the organism 
 gene anotation ; gencodee and encode... check them out 
 
+DNA  seq analysis pipeline and associated files
+
+raw sequence reads:FASTq,
+reads alignmnet 
+genomic coverage
+variant calling 
+biological interpratation 
+
+quality control on fast qc
+
+
+## assignment on the sequencing and sequencing technologies
