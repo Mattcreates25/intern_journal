@@ -202,3 +202,10 @@ Gene ontology provides a controlled vocabulary of terms for describing gene prod
 
 
 
+# __seqencing__
+whole gemone sequence 
+shotgun sequencing
+
+the exten of non protein coding DNA increases with the  complexity of the organism 
+gene anotation ; gencodee and encode... check them out 
+
